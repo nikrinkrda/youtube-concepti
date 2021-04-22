@@ -5,4 +5,5 @@
 - HTML
 - CSS
 - Normalize.css
-- SVG Sprites 
+- SVG Sprites
+- JS 
