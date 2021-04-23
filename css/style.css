@@ -158,7 +158,7 @@ body {
 }
 .chennel {
   position: relative;
-  margin-bottom: 49px;
+  margin-bottom: 30px;
 }
 .chennel-title {
   display: flex;
@@ -245,13 +245,14 @@ line-height: 20px;
 color: #19202C;
 margin-top: 10px;
 margin-left: 4px;
+margin-bottom: 12px;
 }
 .video-info {
   display: flex;
   align-items: center;
   justify-content: space-between;
   font-size: 10px;
-  line-height: 16px;
+  line-height: 10px;
   color: #C2C2C2;
 }
 .video-counter {
